@@ -1,0 +1,13 @@
+15ITA20,postfix_eval
+15ITA20,bracket_check
+15ITA20,Sorting an array
+15ITA20,Sorting an array
+15ITA20,Sorting an array
+15ITA20,Sorting an array
+15ITA20,Sorting an array
+15ITA20,Sorting an array
+15ITA20,Sorting an array
+15ITA20,Sorting an array
+15ITA22,postfix_eval
+15ITA22,bracket_check
+15ITA29,Sorting an array

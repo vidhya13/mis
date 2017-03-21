@@ -1,0 +1,5 @@
+list($uname,$fname,$lname, $email,$aemail, $pass, $cpass,$web,$phonenumber,$dept,
+$coll,$year,$utype,$section,$mentor,$isem)=explode(",",$line);
+$sql="INSERT INTO cc_users (username,firstname,lastname,email,alt_email,password,confirm_password,website,mobile_no,
+department,college,year,user_type,section,ismentor,isemail) VALUES ('$uname','$fname','$lname','$email','$aemail','$pass','$cpass',
+'$web','$phonenumber','$dept','$coll','$year','$utype','$section','$mentor','$isem')";

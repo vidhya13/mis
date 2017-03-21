@@ -1,0 +1,13 @@
+15ITA20,postfix_eval,Difficult Level,Introduction to C Programs,Summer 2,17,17,3319,1120,7,1461070831593
+15ITA20,bracket_check,Difficult Level,Introduction to C Programs,Summer 2,21,21,3319,1126,7,1461070994284
+15ITA20,Sorting an array,PDS-1,Looping,Spring,0,0,3319,1755,47,1461072620157
+15ITA20,Sorting an array,PDS-1,Looping,Spring,0,0,3319,1755,47,1461072305826
+15ITA20,Sorting an array,PDS-1,Looping,Spring,1,1,3319,1755,47,1461072451040
+15ITA20,Sorting an array,PDS-1,Looping,Spring,1,1,3319,1755,47,1461072637475
+15ITA20,Sorting an array,PDS-1,Looping,Spring,1,1,3319,1755,47,1461072251864
+15ITA20,Sorting an array,PDS-1,Looping,Spring,1,1,3319,1755,47,1461072364605
+15ITA20,Sorting an array,PDS-1,Looping,Spring,0,0,3319,1755,47,1461072629710
+15ITA20,Sorting an array,PDS-1,Looping,Spring,0,0,3319,1755,47,1461072357927
+15ITA22,postfix_eval,Difficult Level,Introduction to C Programs,Summer 2,17,17,3321,1120,7,1461074477070
+15ITA22,bracket_check,Difficult Level,Introduction to C Programs,Summer 2,21,21,3321,1126,7,1461074591840
+15ITA29,Sorting an array,PDS-1,Looping,Spring,1,1,3328,1755,47,1461071992216

@@ -1,0 +1,3 @@
+manik,ma,po,manik@gmail.com,man,978654309
+keerthu,ke,th,keerthu@gmail.com,kee,6789045678
+naveen,nav,een,naveen@gmail.com,nav,980987654
